@@ -35,7 +35,7 @@ Finally, Open Agora iOS Voice Tutorial.xcodeproj, connect your iPhone／iPad dev
 ## Connect Us
 
 - You can find full API document at [Document Center](https://docs.agora.io/en/)
-- You can fire bugs about this demo at [issue](https://github.com/AgoraIO/Agora-iOS-Voice-Tutorial-Swift-1to1/issues)
+- You can file bugs about this demo at [issue](https://github.com/AgoraIO/Agora-iOS-Voice-Tutorial-Swift-1to1/issues)
 
 ## License
 
